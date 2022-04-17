@@ -17,8 +17,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=in2xx&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=in2xx&repo=AStar-Student-Faucet&theme=gruvbox)](https://github.com/in2xx/AStar-Student-Faucet)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=in2xx&theme=gruvbox)](https://github.com/in2xx/github-profile-trophy)
 [![](https://raw.githubusercontent.com/in2xx/in2xx/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
